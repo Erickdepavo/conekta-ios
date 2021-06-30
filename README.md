@@ -1,3 +1,7 @@
+# Conekta iOS v1.1.0
+
+This is the Swift Package Manager Wrapper for [https://github.com/conekta/conekta-ios](https://github.com/conekta/conekta-ios).
+
 ![alt tag](https://raw.github.com/conekta/conekta-ios/master/readme_files/cover.jpg)
 
 Conekta iOS v 1.1.0
@@ -154,3 +158,4 @@ We are hiring
 
 If you are a comfortable working with a range of backend languages (Java, Python, Ruby, PHP, etc) and frameworks, you have solid foundation in data structures, algorithms and software design with strong analytical and debugging skills. 
 Send your CV, github to quieroser@conekta.io
+
