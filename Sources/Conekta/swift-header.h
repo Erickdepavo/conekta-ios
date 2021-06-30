@@ -6,3 +6,6 @@
 #import "Token.h"
 #import "Connection.h"
 #import "Conekta.h"
+
+#module "Conekta"
+export *
